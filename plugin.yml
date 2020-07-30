@@ -1,0 +1,5 @@
+name: TNTWars
+api: 3.0.0
+author: LiTEK
+version: 1.0-beta
+main: tntwars\TNTWars
